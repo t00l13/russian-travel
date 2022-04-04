@@ -1,4 +1,4 @@
-.lead__image_svg{
+.lead__image__svg{
   background-image: url(../../../../images/lead_put.svg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -10,21 +10,21 @@
 }
 
 @media screen and (max-width:1279px) {
-  .lead__image_svg{
+  .lead__image__svg{
     width: 883.76px;
     height: 248.02px;
   }
 }
 
 @media screen and (max-width:1023px) {
-  .lead__image_svg{
+  .lead__image__svg{
     width: 731.38px;
     height: 205.26px;
   }
 }
 
 @media screen and (max-width:767px) {
-  .lead__image_svg{
+  .lead__image__svg{
     width: 304.74px;
     height: 85.53px;
     top: 55%;
