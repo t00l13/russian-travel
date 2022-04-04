@@ -1,23 +1,49 @@
 # Проект: Путешествие по России
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+Проектная работа 3 для ЯндексПрактикум выполнена в форме лендинга.
+## Стек
+* HTML
+* CSS
 
-**Интро**
+## Реализация
+* Файловая структура проекта по правилам Nested БЭМ
+* Flexbox
+* Grid-layout
+* CSS
+* Адаптация сайта под все виды устройств
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+## Планы по доработке
+* Добавить CSS-анимацию
+* Сделать адаптацию и точки перехода для больших устройств
+* Добавить смену языка на странице
 
-**Figma**
+## Ссылка на сайт:
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+https://t00l13.github.io/russian-travel/index.html
 
-**Картинки**
+---
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+# Russian travel. Project work 3  Yandex.Praktikum
+---
 
-Удачи!
+Project work 3 for Yandex Practicum was made in the form of a landing page .
+
+## Stack
+* HTML
+* CSS
+
+## Realization
+* The Nested BEM file stucture
+* Flexbox layout
+* Grid layout
+* CSS
+* Adaptive
+
+
+## Future improvements
+* Add CSS animation
+* Make adaptations and transition points for large devices
+* Add a language change on the page
+
+## URL:
+https://t00l13.github.io/russian-travel/index.html

@@ -1,0 +1,17 @@
+.footer__link{
+  text-decoration: none;
+  color: #fff;
+  padding-left:18px;
+  opacity: 1;
+  transition: opacity .2s linear;
+}
+
+.footer__link:hover{
+  opacity: .6;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__link {
+    padding-left: 16px;
+  }
+}

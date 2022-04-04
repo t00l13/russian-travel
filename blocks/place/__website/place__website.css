@@ -1,0 +1,13 @@
+.place__website{
+  align-self: end;
+  transition: opacity .2s linear;
+}
+
+.place__website:hover{
+  opacity: .6;
+}
+@media screen and (max-width:767px) {
+  .place__website{
+    margin: 0 0 0 16px;
+  }
+}
